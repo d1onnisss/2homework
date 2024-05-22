@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct Contacts {
+struct Contact {
     var image: String
     var fullName: String
     var phoneNumber: String
